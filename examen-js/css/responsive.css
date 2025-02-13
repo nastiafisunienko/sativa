@@ -1,0 +1,674 @@
+
+@media (min-width: 200px) and (max-width: 530px) {
+  #back  svg{
+    margin: 69% 0;
+  }
+
+  a.hamburger {
+    display: block;
+  }
+
+  #navigation {
+    display: none;
+  }
+  #header-logo {
+    flex-basis: 83%;
+    position: fixed;
+    z-index: 26;
+  }
+
+  #svg {
+    width: 185%;
+  }
+
+  #banner {
+    margin-top: 75px;
+  }
+
+  #svg {
+    width: 185%;
+  }
+
+  #header-logo {
+    flex-basis: 83%;
+    position: fixed;
+    z-index: 26;
+    width: 94%;
+    backdrop-filter: blur(2px);
+  }
+
+  .text {
+    font-size: 25px;
+  }
+
+  #sello {
+    font-size: 3em;
+    padding: 0px;
+    padding-top: 0px;
+    padding-top: 152px;
+    text-align: center;
+  }
+
+  #dj-disc {
+    width: 201%;
+    left: 26px;
+    width: 188%;
+    top: -920px;
+  }
+
+  .spot {
+    font-size: 0.8em;
+  }
+
+  .play p:nth-child(2) a {
+    font-size: 1.5em;
+  }
+
+  .play p:nth-child(2) {
+    right: -35px;
+  }
+
+  .section-2-block h2  {
+    font-size: 6em;
+    top: 44%;
+  }
+
+  #section-photos h2 {
+    font-size: 2em;
+  }
+
+  .spot {
+    padding: 12%;
+    margin-top: 49%;
+  }
+
+  .section-2-block {
+    left: 11%;
+    top: 17%;
+  }
+#section-2 {
+  height: 104vh;
+}
+
+  #barcode {
+    width: 46%;
+    top: 0;
+  }
+
+  #section-3 {
+    padding-left: 0%;
+  }
+
+  #foto1, #foto2, #foto3, #foto4 {
+    width: 100%;
+  }
+
+  #foto2 {
+    background-position-y: 33px;
+  background-position-x: 38px;
+  }
+
+  #foto2 img {
+    max-width: 100%;
+  }
+
+  .fot {
+    justify-content: center;
+    padding-top: 28%;
+  }
+
+  #beny {
+    left: -63px;
+  width: 44%;
+  top: 20%;
+  }
+
+  #info-ajax, #info-ajax-2, #info-ajax-3, #info-ajax-4{
+    width: 43%;
+    font-size: 0.5em;
+    right: 0;
+  }
+
+  #info-ajax-3 {
+    right: 0%;
+    top: 29%;
+  }
+
+  #footer-copyright {
+    flex-direction: column-reverse;
+  }
+  #foto4 img:first-child {
+    max-width: 100%;
+  }
+
+  #foto4 {
+    background-position-x: 23px;
+  }
+
+  #info-ajax-4 {
+    right: 0px;
+  }
+
+  #secciones #contactar h3 {
+    font-size: 3em;
+  }
+
+  #footers {
+    width: 68%;
+  }
+
+  #copyright-text {
+    font-size: 0.5em;
+  text-transform: uppercase;
+  padding: 12%;
+  text-align: center;
+  flex-direction: column-reverse;
+  }
+
+  .iconos {
+    width: 90%;
+  }
+
+  #footer-block {
+    display: block;
+  }
+
+  .iconos p {
+    font-size: 1.4em;
+  margin: 7%;
+  }
+
+
+  /*NOSOTROS*/
+
+  #section-1-div {
+    height: 37vh;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  }
+
+  #nosotros-h2 {
+    font-size: 6em;
+    margin: 0;
+  }
+
+  #section2-div h2 {
+    position: absolute;
+    color: #40881b;
+    font-size: 3em;
+    font-weight: lighter;
+    top: -84px;
+    left: -89px;
+  }
+
+  #main-content-nosotros {
+    flex-direction: column;
+  }
+
+  #section2-div {
+    flex-basis: 0%;
+    width: 0%;
+    opacity: 0.7;
+    background-size: cover;
+    position: relative;
+    margin: 59px;
+    background-position-x: 1px;
+    background-position-y: -48px;
+    padding: 46%;
+    background-attachment: inherit;
+  }
+
+  #section2-div h2 {
+    top: -100px;
+    left: 1px;
+    font-size: 3.5em;
+  }
+
+  #section2-text {
+    width: 85%;
+    text-align: center;
+  }
+
+  #section2-text p {
+    font-size: 1em;
+  }
+
+  #plugin-section > h3 {
+    font-size: 5em;
+    margin-top: 51%;
+  }
+
+  .tab_wrapper * {
+    font-size: 1em;
+    text-align: center;
+  }
+
+  #plugin {
+    width: 85%;
+  }
+
+  .tab_wrapper .content_wrapper .accordian_header.active::after {
+    background: white;
+  }
+
+  .tab_wrapper .content_wrapper .accordian_header.active {
+    color: white;
+  }
+
+  .tab_wrapper .content_wrapper .accordian_header.active .arrow {
+    border-top: 0px solid #49a4d9;
+  border-left: 0px solid #49a4d9;
+  }
+
+  #contactar {
+    height: 42vh;
+  display: flex;
+  align-items: center;
+  }
+
+  #contactar h3 {
+    font-size: 4em;
+  }
+
+  /*servicio*/
+
+
+  #servicios h2 {
+    font-size: 3em;
+  }
+
+  #main-servicios #banner {
+    margin-top: 0;
+  }
+
+  #main-servicios #servicios {
+    height: 54vh;
+  }
+
+  #servicios-section h3 {
+    font-size: 3em;
+  }
+
+  .marquee-slider__list--item {
+    font-size: 1em;
+    width: 30%;
+    min-height: 0;
+  }
+
+  .marquee-slider__list {
+    align-items: center;
+  }
+
+  .marquee-slider {
+    grid-row-gap: 7.6rem;
+  }
+
+  .group {
+    flex-direction: column;
+  }
+
+  #head2 {
+    font-size: 3em;
+  }
+
+  #top-cancion {
+    border: 0;
+  }
+
+  #headers-serv h3 {
+    margin: 14%;
+    font-size: 1.5em;
+    
+  }
+
+  .rating {
+    padding: 12%;
+    display: none;
+  }
+
+  .rating h2 {
+    font-size: 2em;
+  }
+
+  #main-servicios #contactar h3 {
+    font-size: 2.5em;
+    text-align: center;
+    width: 100%;
+  }
+
+  #photo-service {
+    flex-direction: column;
+  }
+
+  #image-servicio {
+    width: 78%;
+  }
+
+  #cod {
+    width: 36%;
+  right: -3px;
+  top: 41px;
+  transform: rotate(90deg);
+  }
+
+  #box-servicio h2 {
+    font-size: 3em;
+  }
+
+  #description {
+    font-size: 0.7em;
+  }
+
+
+  /*Contacto*/
+
+  #main-contacto {
+    padding-top: 7%;
+  padding-bottom: 28%;
+  }
+
+  #main-contacto h2 {
+    font-size: 4em;
+  }
+
+  #main-contacto #banner {
+    margin: 0;
+  }
+
+  .forms {
+    flex-direction: column;
+  }
+
+  .contacto-class > p:first-child {
+    font-size: 2em;
+  }
+
+  .contacto-class > p:nth-child(2) {
+    text-align: center;
+  }
+
+  .contacto-class #icons {
+    font-size: 0.8em;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding-top: 20%;
+    padding-bottom: 20%;
+  }
+  .iconic {
+    justify-content: center;
+  }
+
+  label {
+    font-size: 0.7em;
+  }
+
+  input::placeholder {
+    font-size: 0.8em;
+  }
+
+  input#button {
+    font-size: 1em;
+  }
+  .forma {
+    flex-basis: 42%;
+  }
+  fieldset {
+    margin: 0;
+  padding: 0;
+  }
+
+  #form {
+    padding: 0;
+  }
+}
+
+@media (min-width: 530px) and (max-width:950px) {
+   /*Tablet*/
+
+   #back  svg{
+    margin: 20% 0;
+  }
+   a.hamburger {
+    display: none;
+  }
+  #navigation p a {
+    font-size: 13px;
+  }
+
+  #sello {
+    font-size: 5em;
+    padding: 10%;
+  }
+
+  #dj-disc {
+    top: -729px;
+  }
+
+  #section-2 {
+    height: 82vh;
+  }
+
+  #info-ajax, #info-ajax-2, #info-ajax-3n {
+    left: 48%;
+  }
+  #section-3 h2 {
+    font-size: 2em;
+  }
+
+  #foto3 h2 {
+    top: -73px;
+  }
+
+  #secciones #contactar h3 {
+    font-size: 7em;
+  }
+
+  #secciones #contactar {
+    padding: 39%;
+  }
+
+  #footer-copyright {
+    flex-direction: column;
+  }
+
+  .iconos {
+    width: 62%;
+    margin: 7%;
+  }
+  #banner {
+    margin-top: 100px;
+  }
+
+  .spot {
+    margin-top: 37%;
+  }
+
+  #sello {
+    font-size: 3em;
+  }
+
+  #dj-disc {
+    width: 138%;
+    left: 108px;
+  }
+
+  .section-2-block {
+    left: 83px;
+    top: 311px;
+  }
+
+  .section-2-block h2 {
+    font-size: 7em;
+  }
+
+  #barcode {
+    top: 634px;
+  }
+
+
+#foto1, #foto2, #foto3, #foto4 {
+  width: 78%;
+}
+
+#info-ajax, #info-ajax-2, #info-ajax-3, #info-ajax-4 {
+  width: 38%;
+  font-size: 0.5em;
+}
+
+#foto2 {
+  background-position-x: 81px;
+}
+
+#foto4 {
+  background-position: 0;
+}
+
+#secciones #contactar h3 {
+  font-size: 4em;
+}
+
+#svg {
+  width: 100%;
+}
+
+/*Nosotros*/
+
+#main-content-nosotros {
+  justify-content: space-evenly;
+  margin-top: 43%;
+  margin-bottom: 46%;
+}
+
+#section2-div {
+  margin: 0;
+  flex-basis: 60%;
+}
+
+#section2-text {
+  flex-basis: 35%;
+  text-align: center;
+}
+
+#section2-div h2 {
+  left: 0;
+  top: -171px;
+  font-size: 5em;
+}
+
+#section2-text p {
+  font-size: 1em;
+}
+
+#plugin-section > h3 {
+  font-size: 9em;
+}
+
+.tab_wrapper .content_wrapper .accordian_header.active::after {
+  background: white;
+}
+
+.tab_wrapper * {
+  font-size: 1em;
+}
+
+.tab_wrapper .content_wrapper .accordian_header.active {
+  color: white;
+}
+
+.tab_wrapper .content_wrapper .accordian_header.active .arrow {
+  border-top: 0px solid #49a4d9;
+  border-left: 0px solid #49a4d9;
+}
+
+#contactar h3 {
+  font-size: 6em;
+  width: 100%;
+}
+
+#contactar {
+  height: 52vh;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+/*servicio */
+
+#servicios h2 {
+  font-size: 6em;
+}
+
+#main-servicios #banner {
+  margin: 0;
+}
+
+#main-servicios #servicios {
+  height: 31vh;
+}
+
+.marquee-slider__list--item {
+  text-align: center;
+  width: 35%;
+  font-size: 1.5em;
+}
+
+.marquee-slider__list--item {
+  max-width: 204px;
+}
+
+.group {
+  flex-direction: column;
+}
+
+#box-servicio h2 {
+  font-size: 4em;
+}
+
+/*contacto*/
+
+#main-contacto h2 {
+  font-size: 7em;
+}
+
+#main-contacto #banner  {
+  margin: 0;
+}
+.contacto-class {
+  flex-basis: 45%;
+}
+
+.forma {
+  flex-basis: 45%;
+}
+
+.contacto-class > p:first-child {
+  font-size: 2em;
+}
+
+.contacto-class > p:nth-child(2) {
+  font-size: 1.2em;
+  color: #74be1e;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.icons {
+  font-size: 0.8em;
+}
+
+label {
+  font-size: 0.8em;
+}
+
+input::placeholder {
+  font-size: 0.7em;
+}
+
+.forms {
+  padding-top: 16%;
+  padding-bottom: 16%;
+}
+}
